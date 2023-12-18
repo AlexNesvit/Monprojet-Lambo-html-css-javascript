@@ -52,6 +52,6 @@ body{
 }
 
 .promo__inner{
-    
+    min-height: 100vh;
 }
 
