@@ -1,3 +1,3 @@
-# Mon Premier Projet
+# Mon Projet Lambo
 
-> Apprentissage de Git et Github
+> Apprentissage HTML, CSS, JavaScript
