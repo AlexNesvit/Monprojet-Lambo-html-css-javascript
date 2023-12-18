@@ -43,6 +43,15 @@ body{
 }
 
 .menu-link{
+    color: #363636;
+    font-size: 16px;
+}
 
+.promo{
+   background-image: url(../images/Promo.jpg); 
+}
+
+.promo__inner{
+    
 }
 
