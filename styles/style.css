@@ -1,3 +1,8 @@
+@font-face {
+    font-family:'Impact', sans-serif ;
+    src: url(../impact.woff2);
+}
+
 html {
     box-sizing: border-box;
 }
@@ -29,6 +34,10 @@ body{
 
 .header{
     padding-top: 25px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    background: linear-gradient(180deg, #D8D4CA 0%, rgba(217, 217, 217, 0) 100%);
 }
 
 .nav{
@@ -42,6 +51,14 @@ body{
     padding-top: 25px;
 }
 
+.menu-left{
+    padding-left: 25px;
+}
+
+.menu-right{
+    padding-right: 25px;
+}
+
 .menu-link{
     color: #363636;
     font-size: 16px;
@@ -49,9 +66,16 @@ body{
 
 .promo{
    background-image: url(../images/Promo.jpg); 
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
 }
 
 .promo__inner{
     min-height: 100vh;
+}
+
+.title{
+
 }
 
