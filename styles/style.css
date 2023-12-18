@@ -122,5 +122,34 @@ body{
     align-self: center;
 }
 
+.info{
+    margin-bottom: 100px;
+}
+
+.info__part{
+    padding-top: 100px;
+    display: flex;
+}
+
+.info__part--first{
+    display: block;
+}
+
+.info__part--second{
+    
+}
+
+.info__part--third{
+    padding-top: 66px;
+}
+
+.info__title{
+    text-transform: uppercase;
+    margin-bottom: 30px;
+    font-size: 32px;
+    font-weight: 300;
+}
+
+
 
 
