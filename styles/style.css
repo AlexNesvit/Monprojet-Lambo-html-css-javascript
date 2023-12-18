@@ -18,18 +18,24 @@ a{
     text-decoration: none;
 }
 
-.container{
+.big-container{
     max-width: 1220px;
+    padding: 0 10px;
+    margin: 0 auto;
+}
+
+.container{
+    max-width: 920px;
     padding: 0 10px;
     margin: 0 auto;
 }
 
 body{
     font-family: 'Roboto Condensed', sans-serif;
-   color: #040404; 
-   font-size: 14px;
-   line-height: 1.2;
-   font-weight: 400;
+    font-weight: 400;
+    color: #040404; 
+    font-size: 14px;
+    line-height: 1.2;
 }
 
 .header{
