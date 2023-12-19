@@ -90,8 +90,10 @@ body{
     font-family:'Impact', sans-serif;
     font-weight: 400;
     font-size: 76px;
-    letter-spacing: 0.08em;
-    margin-bottom: 10px;
+    letter-spacing: 0.03em;
+    margin-bottom: 0;
+    margin-top: 10px;
+    line-height: 1.2;
 }
 
 .subtitle{
@@ -99,15 +101,16 @@ body{
     font-weight: 400;
     font-size: 48px;
     border-bottom: 1px solid #040404;
-    margin-bottom: 10px;
+    margin-bottom: 0;
     align-self: center;
+    margin-top: 5px;
 }
 
 .subtitle span{
     display: block;
     font-size: 34px;
     color: #9f6b08;
-    padding: 10px 0;
+    /*padding: 10px 0;*/
 }
 
 .promo__text{
