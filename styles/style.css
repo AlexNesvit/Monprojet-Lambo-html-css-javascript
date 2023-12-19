@@ -193,5 +193,34 @@ body{
     padding-bottom: 20px;
 }
 
+.track{
+   padding-bottom: 90px; 
+   background-image: url(../images/gran_final.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+}
+
+.track__inner{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.track__title{
+    padding-top: 50px;
+    padding-bottom: 30px;
+    font-size: 32px;
+    font-weight: 300;
+}
+
+.track__text{
+    max-width:  435px; 
+}
+
+.track__img{
+    margin: 300px 70px 90px;
+} 
+
 
 
