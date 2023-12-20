@@ -309,8 +309,8 @@ body{
     width: 274px;
     height: 257px;
     position: absolute;
-    top: 210px;
-    left: -130px;
+    top: -40px;
+    left: 360px;
 }
 
 .evo-white__inner::after{
@@ -319,8 +319,8 @@ body{
     width: 324px;
     height: 311px;
     position: absolute;
-    top: 210px;
-    left: -130px;
+    top: 115px;
+    left: 600px;
 }
 
 .evo-white__text{
