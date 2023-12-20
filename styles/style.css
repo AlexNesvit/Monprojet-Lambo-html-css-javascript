@@ -221,9 +221,88 @@ body{
     max-width:  435px; 
 }
 
+.evo{
+    font-size: 14px;
+    margin-bottom: 100px;
+}
+
 .track__img{
     margin: 300px 70px 90px;
 } 
+
+.evo-black{
+    background-color: #363636;
+    padding: 100px 0 50px;
+    color: #fff;
+}
+
+.evo-black__info{
+   display: flex; 
+   justify-content: space-between;
+}
+
+.evo-black__title{
+    text-transform: uppercase;
+    font-size: 32px;
+    font-weight: 300;
+    padding-right: 50px;
+}
+
+.evo-black__infobox{
+    flex-basis: 437px;
+}
+
+.evo-black__text{
+    font-size: 14px;
+    margin-bottom: 30px;
+}
+
+.evo-black__img{
+    display: block;
+    margin: 170px auto 60px;
+}
+
+.evo_descr-list{
+   display: flex;
+   justify-content: center;
+   gap: 0 65px; 
+}
+
+.evo_descr-list dd{
+    text-transform: uppercase;
+}
+
+.evo-white__inner{
+    padding-top: 125px;
+}
+
+.evo-white__text{
+    margin-bottom: 30px;
+}
+
+.evo-white__text:first-child{
+    max-width: 285px;
+}
+
+.evo-white__text:ntn-child(2){
+    max-width: 437px;
+}
+
+.evo-white__text:ntn-child(3){
+    max-width: 590px;
+}
+
+.evo-white__video{
+    margin-top: 100px;
+    background-image: url(../images/evovideo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 258px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 
 
