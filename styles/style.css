@@ -389,6 +389,27 @@ body{
     color: #363636;
 }
 
+.blog__slider{
+   position: relative; 
+   padding-top: 50px;
+   margin-bottom: 100px;
+}
+
+.blog__button{
+    position: absolute;
+    top: 0;
+    cursor: pointer;
+    left: 50%;
+}
+
+.swiper-button-left{
+    transform: translateX(-41px);
+}
+
+.swiper-button-right{
+    transform: translateX(8px);
+}
+
 
 
 
