@@ -357,6 +357,37 @@ body{
     color: #fff;
 }
 
+.blog{
+   margin-bottom: 100px; 
+}
+
+.blog__title{
+   font-weight: 300;
+   font-size: 32px;
+   text-transform: uppercase;
+   margin-bottom: 30px; 
+}
+
+.blog__item-img{
+    margin-bottom: 20px;
+}
+
+.blog__item-title{
+    font-weight: 400;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    min-height: 46px;
+}
+
+.blog__item-text{
+    margin-bottom: 10px;
+}
+
+.blog__item-link{
+    font-size: 12px;
+    color: #363636;
+}
 
 
 
