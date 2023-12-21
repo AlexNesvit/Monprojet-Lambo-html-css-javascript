@@ -1,4 +1,4 @@
-# Mon Projet Lambo
+# Mon projet (consultable ici) implique la création d'un site pour la grande finale de LAMBORGHINI. J'ai employé les langages HTML, CSS, JavaScript, la bibliothèque Swiper, ainsi que l'outil Figma pour la conception du site.
 
 > Apprentissage HTML, CSS, JavaScript
 >
