@@ -490,6 +490,19 @@ body{
     flex-basis: 462px;
 }
 
+.footer__address-text{
+   font-size: 16px;
+   margin-bottom: 20px; 
+}
+
+.footer__bottom{
+    margin-bottom: 35px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
 
 
 
