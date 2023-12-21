@@ -457,12 +457,28 @@ body{
     margin-bottom: 50px;
 }
 
+.footer__top{
+    display: flex;
+    justify-content: space-between;
+    gap: 0 20px;
+}
+
 .footer__info-item{
     margin-bottom: 50px;
 }
 
 .footer__info-item dt{
-    
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.footer__info-item dd{
+    margin-bottom: 10px;
+}
+.footer__address{
+    flex-basis: 462px;
 }
 
 
