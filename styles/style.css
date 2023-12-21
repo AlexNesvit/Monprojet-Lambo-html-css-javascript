@@ -18,6 +18,10 @@ a{
     text-decoration: none;
 }
 
+li{
+    list-style: none;
+}
+
 .big-container{
     max-width: 1220px;
     padding: 0 10px;
@@ -439,6 +443,28 @@ body{
 .blockquote__text{
     font-style: italic;
 }
+
+.footer{
+    background-color: #363636;
+    padding: 100px 0 80px;
+    color: #fff;
+}
+
+.footer__title{
+    text-transform: uppercase;
+    font-size: 32px;
+    font-weight: 300;
+    margin-bottom: 50px;
+}
+
+.footer__info-item{
+    margin-bottom: 50px;
+}
+
+.footer__info-item dt{
+    
+}
+
 
 
 
