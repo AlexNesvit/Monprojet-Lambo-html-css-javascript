@@ -331,15 +331,15 @@ body{
     margin-bottom: 30px;
 }
 
-.evo-white__text:first-child{
+.evo-white__text:first-child {
     max-width: 285px;
 }
 
-.evo-white__text:ntn-child(2){
+.evo-white__text:nth-child(2) {
     max-width: 437px;
 }
 
-.evo-white__text:ntn-child(3){
+.evo-white__text:nth-child(3) {
     max-width: 590px;
 }
 
