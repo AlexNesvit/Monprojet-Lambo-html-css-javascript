@@ -157,7 +157,7 @@ body{
 
 .info__title{
     text-transform: uppercase;
-    margin-bottom: 30px;
+   /* margin-bottom: 30px;*/
     font-size: 32px;
     font-weight: 300;
 }
