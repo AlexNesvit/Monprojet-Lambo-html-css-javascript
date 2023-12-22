@@ -295,11 +295,16 @@ body{
 .evo__descr-list{
    display: flex;
    justify-content: center;
-   gap: 0 65px; 
+   gap: 0 40px;
+}
+
+.evo__descr-list dt{
+    text-transform:uppercase ;
+    justify-content: center; 
 }
 
 .evo__descr-list dd{
-    text-transform: uppercase;
+    text-transform:uppercase ;
 }
 
 .evo-white__inner{
